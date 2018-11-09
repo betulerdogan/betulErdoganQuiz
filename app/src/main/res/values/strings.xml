@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">betulErdoganQuiz</string>
+    <array name="songNames">
+        <item>Another Brick In The Wall</item>
+        <item>Money</item>
+        <item>Wish You Were Here</item>
+    </array>
+    <array name="times">
+        <item>3.49</item>
+        <item>6.32"</item>
+        <item>4.53</item>
+    </array>
+</resources>
